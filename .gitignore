@@ -1,2 +1,17 @@
 # Ignorar tudo que estiver dentro da pasta data
 data/
+
+#----------- Coisas que precisam ser ignoradas no front end para evitar arquivos desnecessários ---------------------------
+# Ignorar diretórios e arquivos gerados pelo Node.js
+node_modules/
+package-lock.json
+yarn.lock
+
+# Ignorar builds
+dist/
+build/
+
+# Ignorar configurações locais do ambiente de desenvolvimento
+*.env
+*.local
+*.env.*.local
