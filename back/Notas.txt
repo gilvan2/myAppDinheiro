@@ -1,0 +1,20 @@
+UI-UX
+
+Menus
+Carteira/Investimentos
+Lançamentos
+Integrações
+
+O Menu Carteira/Investimentos terá os itens
+Planilha de investimento
+Projeçoes
+Calculo de investimento
+Inposto de renda 
+
+planilha de investimentos
+	Lançamentos de ativos e gráficos de macro-alocações -> No futuro, quero que os lançamentos sejam buscados diretamento da B3
+	Mostrar quais são os ativos com dataCom e data Pagamento, assim como históricos de pagaemnto e gráficos
+	Deixar marcado quais são os ativos com dataCom no mês corrente, separando os que ainda vão vencer, os que estão em dataCom no dia e os que já passaram da dataCom no mês
+	Deixar exposto os valores da valor justo, valor máximo e flag para identificar que o sistema faça buscar para comprar ou vender ativos ou notificar sobre essas condições boas de compra e venda
+	Mecanismo para listar ativos em aportunidade -> Similar aos filtros que eu faço buscando do fundamentus
+	Montar histórico de valorização e desvalorização do ativo e se possível, desvalorização frente a inflação e CDI

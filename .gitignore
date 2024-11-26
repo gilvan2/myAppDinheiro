@@ -15,3 +15,57 @@ build/
 *.env
 *.local
 *.env.*.local
+
+# Diretórios e arquivos gerados pelo Maven
+/target/
+/build/
+
+# Logs de execução
+*.log
+*.log.*
+
+# Configurações do IDE
+/.idea/
+/*.iml
+/.vscode/
+*.classpath
+*.project
+*.settings/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup e temporários
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Arquivos de cache do Spring Boot
+*.class
+*.war
+*.jar
+
+# Dependências locais
+/lib/
+
+# Variáveis de ambiente (chaves de API, senhas, etc.)
+.env
+
+# Relatórios de testes
+/test-output/
+coverage/
+jacoco.exec
+
+# Arquivos de CI/CD locais
+/.github/workflows/*.bak
+/.gitlab-ci.yml
+
+# Configuração de SO ou editor
+*.idea/
+/*.vscode
+*.editorconfig
+*.bashrc
+
+
